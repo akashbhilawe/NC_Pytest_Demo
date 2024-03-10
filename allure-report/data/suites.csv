@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Mar 10 08:37:12 IST 2024","Sun Mar 10 08:37:50 IST 2024","37775","testCases","test_UserLogin_DDT","Test_Login_DDT","","","test_user_login_DDT_005",""
+"passed","Sun Mar 10 08:37:13 IST 2024","Sun Mar 10 08:37:19 IST 2024","5043","testCases","test_UserLogin_params","Test_Login_Params","","","test_user_login_params_004[DataForLogin0]",""
+"passed","Sun Mar 10 08:37:13 IST 2024","Sun Mar 10 08:37:24 IST 2024","11358","testCases","test_UserLogin_params","Test_Login_Params","","","test_user_login_params_004[DataForLogin3]",""
+"passed","Sun Mar 10 08:37:13 IST 2024","Sun Mar 10 08:37:24 IST 2024","11089","testCases","test_UserLogin_params","Test_Login_Params","","","test_user_login_params_004[DataForLogin2]",""
+"passed","Sun Mar 10 08:37:13 IST 2024","Sun Mar 10 08:37:18 IST 2024","4737","testCases","test_UserLogin","Test_Login","","","test_user_login_002",""
+"passed","Sun Mar 10 08:37:13 IST 2024","Sun Mar 10 08:37:24 IST 2024","11472","testCases","test_UserLogin_params","Test_Login_Params","","","test_user_login_params_004[DataForLogin1]",""
+"passed","Sun Mar 10 08:37:13 IST 2024","Sun Mar 10 08:37:13 IST 2024","452","testCases","test_UserLogin","Test_Login","","","NonCom - Test page_title","My test description"

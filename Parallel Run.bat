@@ -1,0 +1,3 @@
+pytest -v -n=9 -m sanity --html=HtmlReports/myreport_chrome.html --alluredir="C:\Web Testing\NorCom_Pytest\AllureReports" --browser chrome  -p no:warnings
+pytest -v -n=9 -m sanity --html=HtmlReports/myreport_edge.html --alluredir="C:\Web Testing\NorCom_Pytest\AllureReports" --browser edge  -p no:warnings
+pytest -v -n=9 -m sanity --html=HtmlReports/myreport_firefox.html --alluredir="C:\Web Testing\NorCom_Pytest\AllureReports" --browser firefox  -p no:warnings

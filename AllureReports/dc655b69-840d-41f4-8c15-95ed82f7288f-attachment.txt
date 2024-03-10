@@ -1,0 +1,26 @@
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:21 Test_case test_user_login_DDT_005 is started
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:23 Opening browser and navigating to demo_nop_com
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:36 Entering email - admin@yourstore.com
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:38 Entering Password - admin
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:40 Click on login button
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:44 Login Pass
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:47 Expected Pass
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:49 Taking screenshot
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:53 Click on Logout button
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:36 Entering email - admin@yourstore.com
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:38 Entering Password - admin1
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:40 Click on login button
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:67 Login Fail
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:69 Expected Fail
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:36 Entering email - admin@yourstore.com1
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:38 Entering Password - admin
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:40 Click on login button
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:67 Login Fail
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:69 Expected Fail
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:36 Entering email - admin@yourstore.com1
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:38 Entering Password - admin1
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:40 Click on login button
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:67 Login Fail
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:69 Expected Fail
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:84 Test_case test_user_login_DDT_005 is Passed 
+[32mINFO    [0m Test_Login_DDT:test_UserLogin_DDT.py:86 Test_case test_user_login_DDT_005 is Completed
